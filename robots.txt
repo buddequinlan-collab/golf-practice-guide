@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buddequinlan-collab.github.io/golf-practice-guide/sitemap.xml
